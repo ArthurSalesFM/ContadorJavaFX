@@ -1,15 +1,17 @@
 # ContadorJavaFX
 Continuando os Estudos em JavaFX
-Criando um contador simples com JavaFX
+Criando um contador simples com JavaFX, com finalidade de utilizar css junto.
 
-**Desenvolvido por** *Arthur Felipe MS* em Java e Css
+**Desenvolvido por** *Arthur Felipe MS*
+
+## Linguagens Utilizadas
+* *Java*
+* *CSS*
 
 ### Desenvolvido na IDE
-
 * *Eclipse*
 
-#### Conceitos utilizados 
-
+#### Conceitos utilizados
 * *POO*
 * *Lambda Expression*
 * *Modularidade*
