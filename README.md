@@ -1,8 +1,8 @@
 # ContadorJavaFX
-Iniciando os Estudos em JavaFX
+Continuando os Estudos em JavaFX
 Criando um contador simples com JavaFX
 
-**Desenvolvido por** *Arthur Felipe MS*
+**Desenvolvido por** *Arthur Felipe MS* em Java e Css
 
 ### Desenvolvido na IDE
 
