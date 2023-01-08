@@ -13,4 +13,4 @@ Criando um contador simples com JavaFX
 * *POO*
 * *Lambda Expression*
 * *Modularidade*
-* *API JavaFX**
+* *API JavaFX*
