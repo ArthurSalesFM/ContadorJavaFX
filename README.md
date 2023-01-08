@@ -1,4 +1,4 @@
-# ContatorJavaFX
+# ContadorJavaFX
 Iniciando os Estudos em JavaFX
 Criando um contador simples com JavaFX
 
